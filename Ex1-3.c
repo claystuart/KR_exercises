@@ -10,7 +10,7 @@ int main()
 	upper = 300;
 	step = 20;
 
-	printf("%3s %5s\n", "Fahr", "Cel");
+	printf("%3s %4s\n", "Fahr", "Cel");
 	fahr = lower;
 	while (fahr <= upper)
 	{
