@@ -16,7 +16,7 @@ int main()
 	while (celsius <= upper)
 	{
 		fahr = celsius * (9.0/5.0) + 32.0; 
-		printf("%3.0f %6.0f\n", fahr, celsius); /* good with no decimals */
+		printf("%3.0f %6.0f\n", fahr, celsius); 
 		celsius += step;
 	}
 	
