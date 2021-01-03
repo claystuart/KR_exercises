@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Git Stuff
+*.swp
+
 # Object files
 *.o
 *.ko
